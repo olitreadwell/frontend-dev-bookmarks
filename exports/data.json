@@ -1,0 +1,603 @@
+{
+  "name": "Frontend Dev Bookmarks",
+  "repo_slug": "frontend-dev-bookmarks",
+  "generated_at": "2026-09-23",
+  "entry_count": 56,
+  "sections": [
+    {
+      "name": "Appearance",
+      "entries": [
+        {
+          "name": "Animation",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/animation.md",
+          "description": "The process of creating motion and shape change.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 29
+        },
+        {
+          "name": "Typography",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/typography.md",
+          "description": "The style, arrangement, or appearance of typeset matter.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 30
+        },
+        {
+          "name": "Visualization",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/appearance/visualization.md",
+          "description": "Placing data in a visual context.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 31
+        }
+      ]
+    },
+    {
+      "name": "Architecture",
+      "entries": [
+        {
+          "name": "Algorithms",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/algorithms.md",
+          "description": "A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 37
+        },
+        {
+          "name": "Design Patterns",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/design-patterns.md",
+          "description": "Best practices that the programmer can use to solve common problems when designing an application or system.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 38
+        },
+        {
+          "name": "Designs",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/designs.md",
+          "description": "Ready to use and well documented structures and frameworks for frontend development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 39
+        },
+        {
+          "name": "Event-Driven Programming",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/event-driven-programming.md",
+          "description": "A programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 40
+        },
+        {
+          "name": "Functional Programming",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-programming.md",
+          "description": "A programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 41
+        },
+        {
+          "name": "Functional Reactive Programming (FRP)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/functional-reactive-programming-frp.md",
+          "description": "FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 42
+        }
+      ]
+    },
+    {
+      "name": "Compatibility",
+      "entries": [
+        {
+          "name": "Cross Browser",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/cross-browser.md",
+          "description": "Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 48
+        },
+        {
+          "name": "E-Mail",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/e-mail.md",
+          "description": "Preparing HTML based electronic mail.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 49
+        },
+        {
+          "name": "Keyboard",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/keyboard.md",
+          "description": "Working with keyboard input in a web browser.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 50
+        },
+        {
+          "name": "Mobile",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/mobile.md",
+          "description": "Development of websites optimized for viewing on smartphone and tablet devices.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 51
+        },
+        {
+          "name": "Printers",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/printers.md",
+          "description": "Manipulation of printer output through CSS.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 52
+        },
+        {
+          "name": "Responsive Web Design (RWD)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/responsive-web-design-rwd.md",
+          "description": "RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 53
+        },
+        {
+          "name": "Web Accessibility",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/web-accessibility.md",
+          "description": "The practice of making the Web usable by people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 54
+        }
+      ]
+    },
+    {
+      "name": "Ecosystem",
+      "entries": [
+        {
+          "name": "Communities Around Projects",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/communities-around-projects.md",
+          "description": "Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 60
+        },
+        {
+          "name": "News",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/news.md",
+          "description": "Websites & newsletters which provide daily and weekly news related to frontend web development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 61
+        },
+        {
+          "name": "Notable Community Members",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/notable-community-members.md",
+          "description": "Important engineers, evangelists, architects and other celebrities.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 62
+        },
+        {
+          "name": "Organizations",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/organizations.md",
+          "description": "Commercial companies and nonprofit organizations around web development.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 63
+        },
+        {
+          "name": "Podcasts",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/podcasts.md",
+          "description": "A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 64
+        }
+      ]
+    },
+    {
+      "name": "Languages, Protocols, Browser APIs",
+      "entries": [
+        {
+          "name": "Cascading Style Sheets (CSS)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/cascading-style-sheets-css.md",
+          "description": "CSS are a stylesheet language used to describe the presentation of a document written in HTML or XML. It describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 70
+        },
+        {
+          "name": "Document Object Model (DOM)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/document-object-model-dom.md",
+          "description": "The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 71
+        },
+        {
+          "name": "HyperText Markup Language (HTML)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-markup-language-html.md",
+          "description": "HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 72
+        },
+        {
+          "name": "Hypertext Transfer Protocol (HTTP)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/hypertext-transfer-protocol-http.md",
+          "description": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 73
+        },
+        {
+          "name": "JavaScript (EcmaScript)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-ecmascript.md",
+          "description": "JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 74
+        },
+        {
+          "name": "JavaScript Object Notation (JSON)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/javascript-object-notation-json.md",
+          "description": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 75
+        },
+        {
+          "name": "Scalable Vector Graphics (SVG)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/scalable-vector-graphics-svg.md",
+          "description": "An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 76
+        },
+        {
+          "name": "Service Workers",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/service-workers.md",
+          "description": "A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 77
+        },
+        {
+          "name": "Templating Languages and Engines",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/templating-languages-and-engines.md",
+          "description": "Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 78
+        },
+        {
+          "name": "Transpiled Languages",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/transpiled-languages.md",
+          "description": "Abstract languages converted to native, browser supported standards like JavaScript or CSS.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 79
+        },
+        {
+          "name": "Uniform Resource Identifier (URI)",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/uniform-resource-identifier-uri.md",
+          "description": "URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 80
+        },
+        {
+          "name": "Web Animations API",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md",
+          "description": "Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 81
+        },
+        {
+          "name": "WebAssembly",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/webassembly.md",
+          "description": "A low-level code representation meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 82
+        }
+      ]
+    },
+    {
+      "name": "User Interface Components",
+      "entries": [
+        {
+          "name": "Buttons",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/buttons.md",
+          "description": "The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 88
+        },
+        {
+          "name": "Code",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/code.md",
+          "description": "Viewers and editors designed for embedding inside a website.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 89
+        },
+        {
+          "name": "Forms",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/forms.md",
+          "description": "A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 90
+        },
+        {
+          "name": "Galeries & Image Sliders",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/galeries-and-image-sliders.md",
+          "description": "A sophisticated way to present a collection of images on your website.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 91
+        },
+        {
+          "name": "Grid",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/grid.md",
+          "description": "CSS Grid Layout Systems.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 92
+        },
+        {
+          "name": "Rich Text Editors",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/rich-text-editors.md",
+          "description": "A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 93
+        },
+        {
+          "name": "Table Of Contents",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/table-of-contents.md",
+          "description": "Components for automatic table of contents generation.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 94
+        },
+        {
+          "name": "UI Kits",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/ui-kits.md",
+          "description": "Collections of ready to use components.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 95
+        },
+        {
+          "name": "Video & Audio",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/user-interface-components/video-and-audio.md",
+          "description": "Components for playing audio and video files on a website.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 96
+        }
+      ]
+    },
+    {
+      "name": "Workflow",
+      "entries": [
+        {
+          "name": "Automated Testing",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/automated-testing.md",
+          "description": "Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 102
+        },
+        {
+          "name": "Build Tools",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/build-tools.md",
+          "description": "Toolkits and their ecosystems, that help you automate painful and repeated tasks.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 103
+        },
+        {
+          "name": "CSS Tools",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/css-tools.md",
+          "description": "Tools for analysis, pre and post processing of CSS files.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 104
+        },
+        {
+          "name": "Code Editors",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/code-editors.md",
+          "description": "Text editor programs designed specifically for editing source code of a website.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 105
+        },
+        {
+          "name": "Documentation",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/documentation.md",
+          "description": "Writing, generating, publishing and consuming documentation for web deliverables.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 106
+        },
+        {
+          "name": "Fonts for Programmers",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/fonts-for-programmers.md",
+          "description": "Programmers need special fonts, which help align the code and distinguish between characters, that look alike.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 107
+        },
+        {
+          "name": "Getting Started",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/getting-started.md",
+          "description": "Step by step guides for setting up a frontend development workflow.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 108
+        },
+        {
+          "name": "HTML Tools",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/html-tools.md",
+          "description": "Tools for pre and post processing of the HTML source code.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 109
+        },
+        {
+          "name": "Image Post Processing",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/image-post-processing.md",
+          "description": "Tools for image conversion and optimization.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 110
+        },
+        {
+          "name": "JavaScript Tools",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/javascript-tools.md",
+          "description": "Tools for static analysis, pre and post processing of JavaScript files.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 111
+        },
+        {
+          "name": "Package Management",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/package-management.md",
+          "description": "A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 112
+        },
+        {
+          "name": "Sourcemaps",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/sourcemaps.md",
+          "description": "Sourcemap is a way to map a combined/minified file back to an unbuilt state.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 113
+        },
+        {
+          "name": "Version Control",
+          "url": "https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/workflow/version-control.md",
+          "description": "A system that records changes to a file or set of files over time so that you can recall specific versions later.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 114
+        }
+      ]
+    }
+  ]
+}

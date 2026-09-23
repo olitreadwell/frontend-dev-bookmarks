@@ -1,0 +1,36 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Frontend Dev Bookmarks"
+repo_slug = "frontend-dev-bookmarks"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    "Appearance",
+    "Architecture",
+    "Compatibility",
+    "Ecosystem",
+    "Languages, Protocols, Browser APIs",
+    "User Interface Components",
+    "Workflow",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = []
+
+[github]
+# Every entry here points at one of this list's own files, not at a repository,
+# so a stars and activity line would say the same thing fifty-six times. The
+# files themselves are where the links live, and they are not checked yet.
+stats = false
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.
